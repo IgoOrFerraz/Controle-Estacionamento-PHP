@@ -1,0 +1,164 @@
+body{
+  /* Definição do Background e Efeito Parallax */
+  background: url("../../imges/bgin.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+div.principal{
+  font-family: Segoe Ui;
+  color: white;
+  width: 100%;
+}
+div.corpo{
+  margin-top: 20px;
+}
+
+div.campo_login{
+  border: 1px solid #151515;
+  width: 400px;
+  max-width: 90%;
+  min-height: 450px;
+
+  background-color: #151515;
+  border-radius: 40px;
+}
+
+div.campo_painel{
+  border: 1px solid #151515;
+  width: 900px;
+  max-width: 90%;
+  min-height: 600px;
+
+  background-color: #151515;
+  border-radius: 40px;
+}
+
+div.campo_resultado{
+  border: 1px solid #151515;
+  width: 400px;
+  max-width: 90%;
+  min-height: 600px;
+
+  background-color: #151515;
+  border-radius: 40px;
+}
+
+div.campo_resulreservas{
+  border: 1px solid #151515;
+  width: 800px;
+  max-width: 90%;
+  min-height: 600px;
+
+  background-color: #151515;
+  border-radius: 40px;
+}
+
+div.campo_resulrel{
+  border: 1px solid #151515;
+  width: 1000px;
+  max-width: 90%;
+  min-height: 600px;
+
+  background-color: #151515;
+  border-radius: 40px;
+}
+div.campo_resulvag{
+  border: 1px solid #151515;
+  width: 500px;
+  max-width: 90%;
+  min-height: 600px;
+
+  background-color: #151515;
+  border-radius: 40px;
+}
+
+hr.hresul{
+  width: 100%;
+}
+.resul span{
+  margin-left: 15px;
+  padding-right: 5px;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+div.campo_veiculos{
+  border: 1px solid #151515;
+  width: 500px;
+  max-width: 90%;
+  min-height: 500px;
+
+  background-color: #151515;
+  border-radius: 40px;
+}
+
+div.campo_vagas{
+  border: 1px solid #151515;
+  width: 400px;
+  max-width: 90%;
+  min-height: 450px;
+
+  background-color: #151515;
+  border-radius: 40px;
+}
+
+div.painel_logotipo{
+  width: 100%;
+}
+div.painel_conteudo{
+  width: 100%;
+  height: auto;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.nav-item{
+  margin-left: 2%;
+}
+
+div.logotipo{
+  border-radius: 20px;
+  background-image: url("../../imges/logo.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-top: 20px;
+  width: 300px;
+  height: 80px;
+}
+hr{
+  width: 250px;
+  background-color: white;
+}
+div input{
+  margin-top: 10px; 
+}
+.form-botao{
+  margin-top: 20px;
+}
+
+.form-group label{
+  margin-bottom: 0px;
+  margin-top: 2px;
+}
+div label{
+  width: 100%;
+  text-align: center;
+  margin-top: 10px;
+}
+div label.resultado{
+  text-align: left;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.bg-custom{
+  background-color: #151515;
+}
+div .msg{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+header{
+  margin-top: 0px;
+}

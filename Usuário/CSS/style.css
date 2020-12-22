@@ -1,0 +1,135 @@
+body{
+  /* Definição do Background e Efeito Parallax */
+  background: url("../../imges/bgin.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+div.principal{
+  font-family: Segoe Ui;
+  color: white;
+  width: 100%;
+}
+
+div.corpo{
+  margin-top: 20px;
+}
+
+div.campo_login{
+  border: 1px solid #151515;
+  width: 400px;
+  max-width: 90%;
+  min-height: 450px;
+
+  background-color: #151515;
+  border-radius: 40px;
+}
+
+div.campo_painel{
+  border: 1px solid #151515;
+  width: 800px;
+  max-width: 90%;
+  min-height: 500px;
+
+  background-color: #151515;
+  border-radius: 40px;
+}
+.resul span{
+  font-weight: bold;
+  font-size: 15px;
+}
+
+div.campo_painelres{
+  border: 1px solid #151515;
+  width: 800px;
+  max-width: 100%;
+  min-height: 400px;
+
+  background-color: #151515;
+  border-radius: 40px;
+}
+
+.hresul{
+  width: 100%;
+}
+
+div.campo_veiculos{
+  border: 1px solid #151515;
+  width: 500px;
+  max-width: 90%;
+  min-height: 500px;
+
+  background-color: #151515;
+  border-radius: 40px;
+}
+
+div.campo_vagas{
+  border: 1px solid #151515;
+  width: 400px;
+  max-width: 90%;
+  min-height: 450px;
+
+  background-color: #151515;
+  border-radius: 40px;
+}
+
+div.painel_logotipo{
+  width: 100%;
+}
+div.painel_conteudo{
+  width: 100%;
+  height: auto;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.nav-item{
+  margin-left: 2%;
+}
+
+div.logotipo{
+  border-radius: 20px;
+  background-image: url("../../imges/logo.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-top: 20px;
+  width: 300px;
+  height: 80px;
+}
+hr{
+  width: 250px;
+  background-color: white;
+}
+.form_login input{
+  margin-top: 10px; 
+}
+.form_cad_vaga input{
+  margin-top: 10px;
+}
+.form_cad_veic input{
+  margin-top: 10px;
+}
+
+.form-botao{
+  margin-top: 20px;
+}
+
+.form-group label{
+  margin-bottom: 0px;
+  margin-top: 2px;
+}
+div label{
+  width: 100%;
+  text-align: center;
+  margin-top: 10px;
+}
+.bg-custom{
+  background-color: #151515;
+}
+div .msg{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+header{
+  margin-top: 0px;
+}
